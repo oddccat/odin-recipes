@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a website on various food recipes. It demonstrates my very basic knowledge in HTML.
