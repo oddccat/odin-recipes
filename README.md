@@ -1,1 +1,1 @@
-This project is a website on various food recipes. It demonstrates my very basic knowledge in HTML.
+This project is a website on various food recipes. It demonstrates my very basic knowledge in HTML. All recipes and images were taken from [Allrecipes](https://www.allrecipes.com).
